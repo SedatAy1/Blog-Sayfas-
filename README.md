@@ -45,11 +45,11 @@ Footer: Sayfanın altında bir footer (<footer>) bulunmalıdır. İçinde telif 
 
 Renk Paleti:
 
-Arka Plan: #f4f4f4
+Arka Plan: f4f4f4
 
-Başlık ve Footer: #333 (koyu gri)
+Başlık ve Footer: 333 (koyu gri)
 
-Metin: #333 (başlıklar) ve #666 (paragraflar)
+Metin: 333 (başlıklar) ve 666 (paragraflar)
 
 Yazı Tipi: Arial, sans-serif
 
