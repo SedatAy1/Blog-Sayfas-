@@ -1,4 +1,4 @@
-Ödev 1 - Blog Sitesi Tasarlama
+Blog Sitesi Tasarlama
 Blog Sitesi Ödevi İsterleri
 
 1. Proje Tanımı
